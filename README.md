@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Богданов Ден 👋
+# Привет, я Богданов Денис 👋
 
 **Начинающий разработчик** 
 *(или напиши тут свою профессию/увлечение)*
@@ -21,5 +21,5 @@
 
 ### 📫 Связаться со мной:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник_в_тг)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/твой_ник_в_вк)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@pesesek)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/Ден Богданов)
