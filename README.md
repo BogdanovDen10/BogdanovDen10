@@ -1,37 +1,81 @@
-# Привет, я Богданов Денис 
+<div align="center">
 
-> Начинающий веб-разработчик.(студент колледжа ИТ.Москва
+<!-- Анимированный текст -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F88F7&center=true&vCenter=true&width=600&lines=Привет%2C+я+Денис+%F0%9F%91%8B;Начинающий+веб-разработчик;Студент+ИТ-Москва)](https://git.io/typing-svg)
 
----
+<!-- Аватарка (можно оставить кота, или заменить на круглую) -->
+<img src="https://avatars.githubusercontent.com/u/160000000?v=4" width="150" style="border-radius: 50%;" alt="Аватар" />
 
-### Навыки и Языки
+### 👨‍💻 Обо мне
+Я начинающий веб-разработчик и студент колледжа **ИТ-Москва**. 
+Люблю писать чистый код, изучать новые технологии и пить Monster Energy ⚡.
 
-| Направление | Технологии |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Инструменты** | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-
----
-
-### В процессе изучения
-
-| Направление | Технологии |
-| :--- | :--- |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+</div>
 
 ---
 
-### Связаться со мной
-
-| Соцсеть | Ссылка |
-| :--- | :--- |
-| **Telegram** | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@pesesek) |
-| **VK** | [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ДенБогданов) |
-
----
+### 🛠 Мой стек технологий
 
 <div align="center">
-  <i>Спасибо, что заглянули в профиль </i>
+
+<!-- Основные навыки (Skill Icons) -->
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,vscode&theme=dark" alt="My Skills" />
+
+<br/>
+
+<!-- То, что в процессе изучения -->
+**В процессе изучения:**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,react&theme=dark" alt="Learning" />
+
 </div>
+
+---
+
+### 📊 Статистика GitHub
+
+<div align="center">
+
+<!-- Карточка статистики и языков -->
+<img src="https://github-readme-stats.vercel.app/api?username=BogdanovDen10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F88F7&icon_color=3F88F7" height="180em" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanovDen10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F88F7" height="180em" alt="Top Languages" />
+
+<br/>
+
+<!-- Серия коммитов (Streak) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanovDen10&theme=tokyonight&hide_border=true&background=0D1117&ring=3F88F7&fire=3F88F7&currStreakNum=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 📫 Связаться со мной
+
+<div align="center">
+
+<!-- Стильные кнопки-бейджи -->
+<a href="https://t.me/ТВОЙ_НИК_ТЕЛЕГРАМ">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://vk.com/ТВОЙ_НИК_ВК">
+  <img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+</a>
+<a href="https://itmoscow.mskobr.ru/">
+  <img src="https://img.shields.io/badge/Колледж-ИТ%20Москва-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="College" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- Скрытый блок с дополнительной информацией (чтобы не загромождать профиль) -->
+<details>
+  <summary>💡 <b>Больше обо мне (нажми, чтобы раскрыть)</b></summary>
+  <br/>
+  
+  - 🔭 Сейчас я работаю над своими первыми пет-проектами.
+  - 🌱 Активно изучаю экосистему JavaScript (Node.js, React).
+  - 🎯 Моя цель на ближайший год — найти стажировку в крутой IT-компании.
+  - ⚡ Интересный факт: могу выпить банку энергетика и не уснуть до утра за кодом.
+  
+</details>
