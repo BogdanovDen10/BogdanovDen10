@@ -24,5 +24,5 @@
 
 ### 📫 Как со мной связаться
 
-- **Telegram:** [@твой_ник_в_тг](https://t.me/@pesesek)
-- **VK:** [vk.com/твой_ник_в_вк](https://vk.com/Ден Богданов)
+- **Telegram:** (https://t.me/@pesesek)
+- **VK:** (https://vk.com/Ден Богданов)
