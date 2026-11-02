@@ -1,28 +1,32 @@
-# Привет, я Богданов Денис 
+<div align="center">
 
-> Начинающий веб-разработчик.(студент колледжа ИТ.Москва
+# Привет, я Богданов Ден 👋
 
----
+**Начинающий веб-разработчик из России.**
 
-### 🛠 Мой стек технологий
+Владею русским и английским.
+</div>
 
-| Направление | Технологии |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | Python |
-| **Инструменты** | Git, VS Code |
+- 🌱 Сейчас я изучаю **Backend и API**
+- 💬 Спроси меня про **HTML, CSS & JS**
+- 😄 Местоимения: Он / Его
 
----
+### Навыки и Языки :
 
-### 🚀 Что я сейчас делаю
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-- Изучаю **Backend и API**.
-- Так же изучаю еще несколько языков
-- Есть несколько проектов
+### В процессе изучения :
 
----
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📫 Как со мной связаться
+### Связаться со мной :
 
-- **Telegram:** (https://t.me/@pesesek)
-- **VK:** (https://vk.com/Ден Богданов)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник_в_тг)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/твой_ник_в_вк)
